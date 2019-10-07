@@ -16,5 +16,3 @@ print ("MEDIA = %.5f" %MF)
 #   MF = (M/11)                  # Média Final (MF) é a divisão de 'M' por 11.
 #   print ("MEDIA = %.5f" %MF)   # Mostrar a Média Final com somente 5 casas decimais (%.5f). 
 
-
-# Teste
